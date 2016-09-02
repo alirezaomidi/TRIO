@@ -1,6 +1,6 @@
 # TRIO
 
-TRIO is
+> In music, a **TRIO** (an Italian word) is a method of instrumentation or vocalization by three different sounds or voices to make a melodious music or song. -- Wikipedia
 
 ## History
 #### 2014
