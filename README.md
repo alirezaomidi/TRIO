@@ -16,7 +16,7 @@ Although the team members has changed during the years, all of the past and curr
 ### 2013
 
 ##### 41nd IUT Local Programming Contest
-The team name was **Pomposo**; An Italian word meaning *Proud* and *Affected*. The team had 2 members: @alirezaomidi and @soroushzargar. TRIO was born after this contest.
+The team name was **Pomposo**; An Italian word meaning *Proud* and *Affected*. The team had 2 members: [Alireza Omidi](https://github.com/alirezaomidi) and [Soroush Zargar](@soroushzargar). TRIO was born after this contest.
 
 ##### 43rd IUT Local Programming Contest
 
