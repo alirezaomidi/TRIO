@@ -13,25 +13,28 @@ Although the team members has changed during the years, all of the past and curr
 
 ## History
 
-### 2013
-
-##### 41nd IUT Local Programming Contest
-The team name was **Pomposo**; An Italian word meaning *Proud* and *Affected*. The team had 2 members: [Alireza Omidi](https://github.com/alirezaomidi) and [Soroush Zargar](@soroushzargar). TRIO was born after this contest.
-
-##### 43rd IUT Local Programming Contest
-
-
 ### 2014
 
-##### ACM ICPC Asia Region - Tehran Site
+##### 41nd IUT Local Programming Contest - March 2014
+The team name was **Pomposo**; An Italian word meaning *Proud* and *Affected*. The team had 2 members: [Alireza Omidi](https://github.com/alirezaomidi) and [Soroush Zargar](https://github.com/soroushzargar). Pomposo ranked **1st**. TRIO was born after this contest.
+
+##### 43rd IUT Local Programming Contest - April 2014
+
+
+##### ACM ICPC Asia Region - Tehran Site - December 2014
 [Scoreboard](http://icpc.sharif.edu/acmicpc14/scoreboard/) -
 [Team Photo](http://icpc.sharif.edu/acmicpc14/photos/Teams/target58.html)
 
 ### 2015
 
-##### ACM ICPC Asia Region - Tehran Site
+##### 44th IUT Local Programming Contest - May 2015
+
+##### ACM ICPC Asia Region - Tehran Site - December 2015
 [Scoreboard](http://icpc.sharif.edu/acmicpc15/scoreboard/) -
 [Team Photo](http://archive.acmwiki.ir/2015/photos/Teams/target59.html)
 
+### 2016
+
+##### 45th IUT Local Programming Contest - May 2016
 
 ## [Cheat Sheet](cheat-sheet)
