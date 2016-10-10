@@ -1,5 +1,7 @@
-//Dinic network max flow algorithm, runs in O(V^2*E) time.
-//efficient for graph with lots of edges.
+// Dinic network max flow algorithm, runs in O(V^2*E) time.
+// efficient for graph with lots of edges.
+// if verteces have capacity as well as edges, simply devide each vertex to two vertex with an edge between them
+// equal to capacity of the vertex
 
 vi dist, work;
 int s, t, n; //fill s, t, n in main ---> s is start, t is destination and n is number of nodes in graph. 
