@@ -48,3 +48,10 @@ for (int k = 0; k < V; k++)
 
 // 4. check if i and j belong to the same SCC, after finding transitive closure, if AdjMat[i][j] && AdjMat[j][i]
 // is true then i and j belong to the same SCC.
+
+// 5. find number of paths from i to j, just modify floyd warshals so instead of
+// AdjMat[i][j] = AdjMat[i][k] + AdjMat[k][j] we have AdjMat[i][j] = AdjMat[i][k] * AdjMat[k][j].
+// after running floyds if AdjMat[k][k] is greater that 0 then for each i and j such that 
+// AdjMat[i][k] > 0 && AdjMat[k][j] is true there are infinit number of paths between i and j
+// because there is a cirlce for k then you can allways go back to k and reach j again.
+// in main AdjMat is 0 for all i and j except for ones that has an edge.
