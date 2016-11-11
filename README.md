@@ -48,8 +48,19 @@ The team members were [Alireza Omidi](https://github.com/alirezaomidi), [Soroush
 ##### 45th IUT Local Collegiate Programming Contest - May 2016
 Like the 44th IUT LCPC, TRIO was in the organizer and judge team. One of the most happy and passionate contests of IUT, held in May 2016. Kung Fu Panda was one of the guests!
 
+
 ## [Cheat Sheet](cheat-sheet)
 
 #### [Graphs](cheat-sheet/graph)
 
 #### [Geometry](cheat-sheet/geometry)
+
+
+## TODO
+
+- [ ] Add QFib to cheat sheet
+- [ ] Add combinatorics to cheat sheet
+- [ ] Add Java Big Integer to cheat sheet
+- [ ] Add First Page with a logo :)
+- [ ] Add number theory cheat sheet
+- [ ] Add UFDS to cheat sheet
