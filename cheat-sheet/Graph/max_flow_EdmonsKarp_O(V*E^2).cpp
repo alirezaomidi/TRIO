@@ -2,6 +2,9 @@
 //with not lots of edges.
 //like dinic it is possible to construct the path using res 2D arr, if there is a path from i to j then res[j][i] > 0.
 
+// if verteces have capacity as well as edges, simply devide each vertex to two vertex with an edge between them
+// equal to capacity of the vertex
+
 
 int s, t, f, mf; //s is start node, t is destination, fill s and t in main. mf will hold the max flow.
 vvi graph, res;//graph is adjList fill it in main, res is a n * n 2D vec with capacity of each edge.
