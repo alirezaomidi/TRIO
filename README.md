@@ -49,3 +49,7 @@ The team members were [Alireza Omidi](https://github.com/alirezaomidi), [Soroush
 Like the 44th IUT LCPC, TRIO was in the organizer and judge team. One of the most happy and passionate contests of IUT, held in May 2016. Kung Fu Panda was one of the guests!
 
 ## [Cheat Sheet](cheat-sheet)
+
+#### [Graphs](cheat-sheet/graph)
+
+#### [Geometry](cheat-sheet/geometry)
