@@ -64,3 +64,4 @@ Like the 44th IUT LCPC, TRIO was in the organizer and judge team. One of the mos
 - [ ] Add First Page with a logo :)
 - [ ] Add number theory cheat sheet
 - [ ] Add UFDS to cheat sheet
+- [ ] Add String Processing algs
