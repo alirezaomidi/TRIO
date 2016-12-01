@@ -1,0 +1,1 @@
+1. division of a poly nomial by another polynomial --> https://en.wikipedia.org/wiki/Polynomial_long_division
