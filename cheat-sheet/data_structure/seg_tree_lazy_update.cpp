@@ -17,7 +17,8 @@ void build_tree(int node, int a, int b) {
 }
 
  // Increment elements within range [i, j] with value value
-void update_tree(int node, int a, int b, int i, int j, int value) {
+void update_tree(int node, int a, int b, int i, int j, int value) { // update will add value to range, to set range to sth
+    // you should change this.
   
   	if(lazy[node] != 0) { // This node needs to be updated
    		tree[node] += lazy[node]; // Update it
