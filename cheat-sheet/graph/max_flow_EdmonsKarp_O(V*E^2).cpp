@@ -1,3 +1,7 @@
+// to find minimum cut, run flow, the max flow is the value of minimum cut, to find edges
+// we put all reachable vertexes from source with positive weight to S components and all others to C
+// all edges connecting S vertexes to C are in minimum edges vertexes set.
+
 //Edmon's karp algo will find network max flow in O(V * E ^ 2). it is easier to code than dinic and good for graphs
 //with not lots of edges.
 //like dinic it is possible to construct the path using res 2D arr, if there is a path from i to j then res[j][i] > 0.
