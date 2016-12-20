@@ -13,7 +13,8 @@ void build_tree(int node, int a, int b) {
 	build_tree(node*2, a, (a+b)/2); // Init left child
 	build_tree(node*2+1, 1+(a+b)/2, b); // Init right child
 	
-	tree[node] = max(tree[node*2], tree[node*2+1]); // Init root value
+	tree[node] = max(tree[node*2], tree[node*2+1]); // to change max seg_tree to for example sum query
+        // change max operator to + operator tree[node] = tree[node*2] + tree[node*2+1];
 }
 
  // Increment elements within range [i, j] with value value
@@ -48,7 +49,7 @@ void update_tree(int node, int a, int b, int i, int j, int value) { // update wi
 	update_tree(node*2, a, (a+b)/2, i, j, value); // Updating left child
 	update_tree(1+node*2, 1+(a+b)/2, b, i, j, value); // Updating right child
 
-	tree[node] = max(tree[node*2], tree[node*2+1]); // Updating root with max value
+	tree[node] = max(tree[node*2], tree[node*2+1]); // to change max seg_tree you must change max operator
 }
 
  // Query tree to get max element value within range [i, j]
@@ -73,7 +74,7 @@ int query_tree(int node, int a, int b, int i, int j) {
 	int q1 = query_tree(node*2, a, (a+b)/2, i, j); // Query left child
 	int q2 = query_tree(1+node*2, 1+(a+b)/2, b, i, j); // Query right child
 
-	int res = max(q1, q2); // Return final result
+	int res = max(q1, q2); // final result, to change max seg_tree you must change max operator
 	
 	return res;
 }
