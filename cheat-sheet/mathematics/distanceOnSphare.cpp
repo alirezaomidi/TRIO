@@ -19,3 +19,5 @@ double gcDistance(double pLat, double pLong,
     return radius * acos(cos(pLat)*cos(pLong)*cos(qLat)*cos(qLong) +
     cos(pLat)*sin(pLong)*cos(qLat)*sin(qLong) + sin(pLat)*sin(qLat));
 }
+or
+acos(cos(qlat) * cos(plat) * cos(plong - qlong) + sin(qlat) * sin(plat));
