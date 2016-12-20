@@ -25,3 +25,7 @@ Matrix matPow(Matrix base, int p) {  // O(n^3 log p), but O(log p) as n = 2
   }
   return ans;
 }
+
+
+[[1 , 1] , [1 , 0]] ** n = [[fib(n+1) , fib(n)], [fib(n) , fib(n-1)]] 
+// FIBONACCI FORMULA
