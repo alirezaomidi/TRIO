@@ -20,8 +20,7 @@ private:
 
     int rmq(int p, int L, int R, int i, int j) { // O(log n)
         if (i > R || j < L) return -1; // current segment outside query range
-        if (L >= i && R <= j) return st[p]; 
-// compute the min position in the left and right part of the interval
+        if (L >= i && R <= j) return st[p]; // compute the min position in the left and right part of the interval
         int p1 = rmq(left(p), L, (L + R) / 2, i, j);
         int p2 = rmq(right(p), (L + R) / 2 + 1, R, i, j);
         if (p1 == -1) return p2; // if we try to access segment outside query

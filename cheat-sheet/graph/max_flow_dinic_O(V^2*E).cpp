@@ -1,3 +1,7 @@
+// to find minimum cut, run flow, the max flow is the value of minimum cut, to find edges
+// we put all reachable vertexes from source with positive weight to S components and all others to C
+// all edges connecting S vertexes to C are in minimum edges vertexes set.
+
 // Dinic network max flow algorithm, runs in O(V^2*E) time.
 // efficient for graph with lots of edges.
 // if verteces have capacity as well as edges, simply devide each vertex to two vertex with an edge between them
