@@ -48,6 +48,14 @@ The team members were [Alireza Omidi](https://github.com/alirezaomidi), [Soroush
 ##### 45th IUT Local Collegiate Programming Contest - May 2016
 Like the 44th IUT LCPC, TRIO was in the organizer and judge team. One of the most happy and passionate contests of IUT, held in May 2016. Kung Fu Panda was one of the guests!
 
+##### ACM ICPC Asia Region - Tehran Site - December 2016
+[Scoreboard](http://icpc.sharif.edu/acmicpc16/scoreboard/) -
+[Team Photo](http://archive.acmwiki.ir/2016/photos/Teams/target24.html)
+
+After [Mehran Aghabozorg](https://github.com/mehranagh20) joined the team, a new journey began. A year full of practicing, led to a memorable contest. TRIO ranked **18th** out of **82** teams solving 4 problems.
+
+The team members were [Alireza Omidi](https://github.com/alirezaomidi), [Soroush Zargar](https://github.com/soroushzargar) and [Mehran Aghabozorg](https://github.com/mehranagh20). Their coach was Mohamad Dehghan.
+
 
 ## [Cheat Sheet](cheat-sheet)
 
@@ -58,12 +66,4 @@ Like the 44th IUT LCPC, TRIO was in the organizer and judge team. One of the mos
 
 ## TODO
 
-- [ ] Add QFib to cheat sheet
-- [ ] Add combinatorics to cheat sheet
-- [ ] Add Java Big Integer to cheat sheet
-- [ ] Add First Page with a logo :)
-- [ ] Add number theory cheat sheet
-- [ ] Add UFDS to cheat sheet
-- [ ] Add String Processing algs
-- [ ] Mehran : Review Graph,
-- [ ] polynomial division cheat sheet.
+- [ ] Clean and Organize the cheat sheet
