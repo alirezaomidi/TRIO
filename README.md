@@ -57,6 +57,9 @@ After [Mehran Aghabozorg](https://github.com/mehranagh20) joined the team, a new
 The team members were [Alireza Omidi](https://github.com/alirezaomidi), [Soroush Zargar](https://github.com/soroushzargar) and [Mehran Aghabozorg](https://github.com/mehranagh20). Their coach was Mohamad Dehghan.
 
 
+![alt tag](https://scontent-amt2-1.xx.fbcdn.net/v/t31.0-8/17546887_978644932269986_2749376666362120378_o.jpg?oh=331794770bcfd098d68d81fec5c22c81&oe=595DE49D)
+
+
 ## [Cheat Sheet](cheat-sheet)
 
 #### [Graphs](cheat-sheet/graph)
